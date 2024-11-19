@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about Python, Core Python, WebScraping, pytest, Django, Flask.
-- 📫 How to reach me: mail me on pshkmr007@gmail.com
+- 📫 How to reach me: mail me on pshkmr009@gmail.com
 - 😄 Pronouns: Indian
 - ⚡ Fun fact: I'm python 🐍
