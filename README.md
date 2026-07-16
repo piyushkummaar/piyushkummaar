@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:pshkmr009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/piyush-kumar-033b30172"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/piyushkummaar?tab=followers"><img src="https://img.shields.io/github/followers/piyushkummaar?style=for-the-badge&logo=github&label=Follow" alt="Followers"/></a>
 </p>
 
@@ -51,20 +51,6 @@ I build things with Python — from scraping messy data off the web to training 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](https://github.com/piyushkummaar/repo)** | One line on what it does and the result it got. | Python, scikit-learn |
-| **[Project Name](https://github.com/piyushkummaar/repo)** | One line on the problem it solves. | Django, PostgreSQL |
-| **[Project Name](https://github.com/piyushkummaar/repo)** | One line on what makes it interesting. | BeautifulSoup, Pandas |
-
-> Replace these with your 3 best repos. Pin them on your profile too.
-
----
 
 ### 📊 GitHub Stats
 
