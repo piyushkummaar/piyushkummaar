@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:pshkmr009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/piyush-kumar-033b30172"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/piyushkummaar?tab=followers"><img src="https://img.shields.io/github/followers/piyushkummaar?style=for-the-badge&logo=github&label=Follow" alt="Followers"/></a>
 </p>
 
@@ -19,7 +19,7 @@ I build things with Python — from scraping messy data off the web to training 
 - 🔭 **Working on:** Machine Learning & Data Science projects
 - 🌱 **Learning:** NLP, LLMs, and applied AI
 - 👯 **Open to collaborate on:** ML/DS projects, open-source Python tools
-- 💬 **Ask me about:** Python, Web Scraping, Django, Flask, pytest
+- 💬 **Ask me about:** Python, LangChain, FastAPI, Web Scraping, Django, Flask, pytest
 - 📫 **Reach me:** [pshkmr009@gmail.com](mailto:pshkmr009@gmail.com)
 - ⚡ **Fun fact:** I'm fluent in Python 🐍 — and it's the only snake I'm not afraid of
 
@@ -39,8 +39,15 @@ I build things with Python — from scraping messy data off the web to training 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Web & Scraping**
+**AI & LLMs**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Web & APIs & Scraping**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -52,11 +59,17 @@ I build things with Python — from scraping messy data off the web to training 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushkummaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkummaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkummaar&theme=tokyonight" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkummaar&theme=tokyonight" alt="repos per language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkummaar&theme=tokyonight" alt="most used language"/>
 </p>
 
 <p align="center">
